@@ -1,4 +1,4 @@
-trolls
+BIG trolls 
 cats
 dogs
 memes
@@ -8,4 +8,8 @@ jalkapallo
 asennetta
 verta
 terästä
+<<<<<<< HEAD
 hevosia makkaroita
+=======
+hevosia
+>>>>>>> 806b8f4a4a2f04df3a047c0494eb0fd167d64bd3
